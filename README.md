@@ -1,4 +1,4 @@
-# A tRPC Alternative for a Nuxt FullStack Typesafe Nuxt Application
+# A tRPC Alternative for a Nuxt FullStack Typesafe Application
 
 Build a full-stack typescript nuxt application without the boilerplate code of tRPC using the [nuxt-remote-fn module](https://github.com/wobsoriano/nuxt-remote-fn)
 
