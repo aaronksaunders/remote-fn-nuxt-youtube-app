@@ -1,63 +1,11 @@
-# Nuxt 3 Minimal Starter
+# A tRPC Alternative for a Nuxt FullStack Typesafe Nuxt Application
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Build a full-stack typescript nuxt application without the boilerplate code of tRPC using the [nuxt-remote-fn module](https://github.com/wobsoriano/nuxt-remote-fn)
 
-## Setup
+we will build a simple nuxt application to save and retrieve data from a sqlite database through a typesafe server-side API.
 
-Make sure to install the dependencies:
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+### Links
+- blog - https://dev.to/aaronksaunders/full-stack-nuxt-typescript-app-without-trpc-3io7
+- nuxt-remote-fn - https://github.com/wobsoriano/nuxt-remote-fn
+- better-sqlite-3 - https://github.com/WiseLibs/better-sqlite3
